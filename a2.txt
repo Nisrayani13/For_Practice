@@ -1,1 +1,2 @@
 Hello there this is a2.txt file
+The a2.txt text is modified to get added to side-branch 1.
